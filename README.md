@@ -1,4 +1,4 @@
-#Post Quantum Cryptography - Scala#
+# Post Quantum Cryptography - Scala #
 
 A small library for use within the Simex messaging protocol (SEP) client and server.
 
